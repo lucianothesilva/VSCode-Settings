@@ -1,6 +1,5 @@
 {
     "editor.accessibilitySupport": "off",
-    "redhat.telemetry.enabled": false,
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
@@ -14,10 +13,16 @@
     "workbench.activityBar.location": "hidden", //abrir com ctrl+q
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
-    "window.menuBarVisibility": "compact",
+    "window.menuBarVisibility": "toggle",
     "workbench.layoutControl.enabled": false,
     "apc.header": {
         "height": 36
+    },
+    "window.titleBarStyle": "custom",
+    "apc.menubar.compact": true,
+    "apc.electron": {
+      "frame": false,
+      "titleBarStyle": "hidden"
     },
     "window.density.editorTabHeight": "compact",
     "apc.font.family": "Inter",
@@ -27,4 +32,5 @@
         ".pane-header": "padding: 0 8px",
     },
     "workbench.colorTheme": "Atom One Dark"
+    
 }

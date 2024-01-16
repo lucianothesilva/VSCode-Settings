@@ -10,8 +10,8 @@
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
-    "explorer.compactFolders": false,
-    "workbench.activityBar.location": "hidden",
+    "explorer.compactFolders": false, //visão das pastas fica melhor
+    "workbench.activityBar.location": "hidden", //abrir com ctrl+q
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
     "window.menuBarVisibility": "compact",

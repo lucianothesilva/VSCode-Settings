@@ -1,7 +1,8 @@
 # VSCode-Settings
+Theme: https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark
 
-Download font here: https://www.jetbrains.com/lp/mono/
+Font : https://www.jetbrains.com/lp/mono/
 
-Download icons here: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+Icons : https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
 
-Donload plugin here: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
+APC: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension

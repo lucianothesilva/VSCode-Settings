@@ -1,0 +1,30 @@
+{
+    "editor.accessibilitySupport": "off",
+    "redhat.telemetry.enabled": false,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "apc.header": {
+        "height": 36
+    },
+    "window.density.editorTabHeight": "compact",
+    "apc.font.family": "Inter",
+    "apc.stylesheet": {
+        ".editor-actions": "display: none",
+        ".nosidebar .inline-tabs-placeholder": "width: 75px",
+        ".pane-header": "padding: 0 8px",
+    },
+    "workbench.colorTheme": "Default Dark+"
+}

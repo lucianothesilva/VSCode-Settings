@@ -26,5 +26,5 @@
         ".nosidebar .inline-tabs-placeholder": "width: 75px",
         ".pane-header": "padding: 0 8px",
     },
-    "workbench.colorTheme": "Default Dark+"
+    "workbench.colorTheme": "Atom One Dark"
 }

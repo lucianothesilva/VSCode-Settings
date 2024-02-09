@@ -1,37 +1,41 @@
 {
     "editor.accessibilitySupport": "off",
+    "redhat.telemetry.enabled": false,
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
-    "editor.lineHeight": 1.5,
+    "editor.lineHeight": 1.8,
     "editor.rulers": [80, 120],
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
-    "explorer.compactFolders": false, //visão das pastas fica melhor
-    "workbench.activityBar.location": "hidden", //abrir com ctrl+q
+    "explorer.compactFolders": false,
+    "workbench.activityBar.location": "hidden",
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
-    "window.menuBarVisibility": "toggle",
+    "window.menuBarVisibility": "compact",
     "workbench.layoutControl.enabled": false,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
     "apc.header": {
         "height": 36
     },
-    "window.titleBarStyle": "custom",
-    "apc.menubar.compact": true,
-    "apc.electron": {
-      "frame": false,
-      "titleBarStyle": "hidden"
-    },
     "window.density.editorTabHeight": "compact",
     "apc.font.family": "Inter",
+    "apc.listRow": {
+        "height": 24
+    },
     "apc.stylesheet": {
         ".editor-actions": "display: none",
         ".nosidebar .inline-tabs-placeholder": "width: 75px",
-        ".pane-header": "padding: 0 8px",
+        ".pane-header": "padding: 0 8px"
     },
-    "workbench.colorTheme": "One Dark Pro Darker"
-    "workbench.sideBar.location": "right"
-    
+    "workbench.colorTheme": "Atom One Dark",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.panel.defaultLocation": "right",
+    "terminal.integrated.shell.windows": "auto",
+    "terminal.integrated.shell.linux": "auto",
+    "terminal.integrated.shell.osx": "auto",
+    "terminal.integrated.openOnSessionStart": true
 }

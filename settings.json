@@ -6,7 +6,7 @@
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
-    "editor.rulers": [80, 120],
+    //"editor.rulers": [80, 120],
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",

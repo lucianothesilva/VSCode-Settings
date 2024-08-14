@@ -7,5 +7,5 @@ Font 2: https://fonts.google.com/specimen/Inter
 
 Icons : https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
 
-APC: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
+APC: https://github.com/drcika/apc-extension
 

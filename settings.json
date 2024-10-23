@@ -38,4 +38,9 @@
     "terminal.integrated.shell.linux": "auto",
     "terminal.integrated.shell.osx": "auto",
     "terminal.integrated.openOnSessionStart": true
+
+    "files.hotExit": "onExit",
+    "window.restoreWindows": "all",
+    "terminal.integrated.enablePersistence": true,
+    "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose"
 }
